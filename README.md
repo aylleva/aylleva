@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayla</h1>
 <h3 align="center">A Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aylleva" alt="aylleva" /></a> </p>
-
 - 🌱 I’m currently improving my skills of **API C# with Asp.Net Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aylleva](https://github.com/aylleva)
