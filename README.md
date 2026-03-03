@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayla</h1>
-<h3 align="center">A Backend Developer</h3>
+<h3 align="center">Someone who has a great passion to become professional AI/LLM engineer</h3>
 
-- 🌱 I’m currently improving my skills of **API C# with Asp.Net Core**
+- 🌱 I’m currently improving my skills of **Frondier-LLM models,learning AI models and generate special and useful AI bots for commerse**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aylleva](https://github.com/aylleva)
 
